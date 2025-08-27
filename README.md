@@ -28,7 +28,9 @@ This project includes:
 
 - **Total transactions**: 284,807  
 - **Features**: 31 features including anonymized numerical features (`V1`–`V28`) and `Amount`, `Time`.  
-- **Fraud cases**: 492 (~0.17% of the data).  
+- **Fraud cases**: 492 (~0.17% of the data).
+  
+[Download the dataset](data/creditcard.csv)
 
 **Class distribution**:
 
